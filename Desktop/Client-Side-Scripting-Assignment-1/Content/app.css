@@ -1,1 +1,9 @@
 /* CSS goes here */
+
+/* Testing out some CSS */
+
+body{
+    background-color: lightblue;
+    font-size: bold;
+    color: darkblue;
+}

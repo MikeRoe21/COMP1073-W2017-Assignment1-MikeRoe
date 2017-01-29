@@ -1,0 +1,25 @@
+/* CSS goes here */
+
+/* Testing out some CSS */
+
+body{
+    background-color: lightblue;
+    font-size: bold;
+    color: darkblue;
+}
+
+#Contact{
+    background-color: red;
+    font-family: georgia;
+}
+
+#Projects{
+    background-color: coral;
+    
+
+}
+
+img{
+    height: 350px;
+    width: 350px;
+}

@@ -7,12 +7,10 @@ var Intro = "My name is Mike Roe. I am a first year student just trying to get m
 FirstParagraph.textContent = Intro;
 
 var SecondParagraph = document.getElementById("SecondParagraph");
-var Test = "This is a test of JS";
-SecondParagraph.textContent = Test;
+var Photo = "Here is a photo from last April of my graduating class in Haliburton, Ontario. I am in the back with the grey shirt and long hair";
+SecondParagraph.textContent = Photo;
 
-var Projects = document.getElementById("Projects");
-var Proj = "test...";
-Projects.textContent = Proj;
+
 
 
 

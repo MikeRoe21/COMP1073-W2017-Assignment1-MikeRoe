@@ -1,3 +1,4 @@
+/* app.js by Mike Roe (200166222) on http://comp1054mikeroe.azurewebsites.net */
 /* Using JavaScript to write the text on the main page */
 
 var FirstParagraph = document.getElementById("FirstParagraph");

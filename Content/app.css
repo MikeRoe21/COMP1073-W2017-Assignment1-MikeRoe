@@ -1,8 +1,16 @@
+/* app.css by Mike Roe (200166222) on http://comp1054mikeroe.azurewebsites.net */
 /* Rules for the three web pages: */
 
 body{
     background-color: lightblue;
     font-family: georgia;
+}
+
+a img{
+    width:75px;
+    height:25px;
+    margin-top:-10px;
+    align-self: left;
 }
 
 #Contact{
@@ -67,8 +75,13 @@ li {
 
 }
 
+
+
 a {
     display: block;
     padding: 8px;
     background-color: gold;
 }
+
+
+

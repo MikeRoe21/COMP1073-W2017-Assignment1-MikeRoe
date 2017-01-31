@@ -19,7 +19,23 @@ body{
 
 }
 
+
 img{
+    display: block;
     height: 350px;
     width: 350px;
+    padding: 15px;
+}
+
+li {
+    float: right;
+    list-style-type: none;
+    width: auto;
+    
+}
+
+a {
+    display: block;
+    padding: 8px;
+    background-color: gold;
 }

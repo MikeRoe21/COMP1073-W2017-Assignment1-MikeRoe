@@ -10,7 +10,10 @@ var SecondParagraph = document.getElementById("SecondParagraph");
 var Test = "This is a test of JS";
 SecondParagraph.textContent = Test;
 
-var ContactText = document.getElementById("ContactText");
-var ContactText = "testing";
-ContactText.textContent = ContactText;
+var Projects = document.getElementById("Projects");
+var Proj = "test...";
+Projects.textContent = Proj;
+
+
+
 
